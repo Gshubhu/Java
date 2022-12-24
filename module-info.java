@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yashgohil
+ *
+ */
+module core {
+}
